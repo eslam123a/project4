@@ -1,0 +1,227 @@
+.div1{
+    width: 70%;
+    height: 100vh;
+    background-image: url(../السيارة/٢٠٢٢٠٨١٠_١٠٣٢٥١.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+position:absolute;
+margin-left: 250px;
+margin-top:-2000 px;
+/* top: 0; */
+}
+
+
+.parent1{
+
+width: 100%;
+height: 60px;
+background-color: grey;
+overflow: auto;
+/* opacity: 0.8; */
+position: relative;
+/* position: fixed; */
+/* top: 0; */
+}
+img{
+    height: 60px;
+    width: 150px;
+    float: left;
+    margin-left: 40px;
+}
+.ul1{
+    list-style: none;
+    float: right;
+    /* text-decoration: none; */
+}
+.ul1 li{
+display: inline-block;
+/* text-decoration: none; */
+
+}
+.ul1 li a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(16, 95, 198);
+
+}
+body{
+    height: 2700px;
+}
+.div2{
+    width:70% ;
+height:100vh ;
+background-color: rgba(0,0, 0, 0.5);
+position:absolute;
+margin-left: 250px;
+
+}
+.parent{
+
+    position: relative;
+    /* top: 0; */
+}
+.div5{
+    
+    width: 300px;
+    height: 500px;
+margin-top: 1000px;
+border: 3px greenyellow solid;
+font-size:20px ;
+float: left;
+margin-left: 200px;
+}
+.img2{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+del{
+    display: block;
+    font-size: 30px;
+    /* text-align: center; */
+}
+h4{
+    
+    padding-top: 70px;
+    text-align: center;
+
+}
+.bu{
+    display: block;
+    width: 150px;
+    height: 50px;
+border: 3px  solid;
+background-color: rgb(16, 236, 16);
+font-size: 20px;
+border-radius: 10px;
+margin: auto;
+position: absolute;
+margin-left: 80px;
+}
+.bu:hover{
+/* opacity: 0.; */
+background-color: rgba(0, 0,0, 0.4);
+position: absolute;
+/* margin: auto; */
+}
+.div6{
+    width: 300px;
+    height: 500px;
+margin-top: 1000px;
+border: 3px greenyellow solid;
+font-size:20px ;
+float: left;
+margin-left: 200px;
+}
+.img3{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+
+}
+.div7{
+    width: 300px;
+    height: 500px;
+margin-top: 1000px;
+border: 3px greenyellow solid;
+font-size:20px ;
+float: left;
+margin-left: 200px;
+
+}
+.img4{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+
+}
+.div8{
+
+    width: 300px;
+    height: 500px;
+margin-top: 100px;
+border: 3px greenyellow solid;
+font-size:20px ;
+float: left;
+margin-left: 200px;
+
+}
+.img5{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.h5{
+    padding-top: 70px;
+    text-align: center;
+}
+.div9{
+
+    width: 300px;
+    height: 500px;
+margin-top: -430px;
+border: 3px greenyellow solid;
+font-size:20px ;
+float: left;
+margin-left: 500px;
+}
+.img6{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.div10{
+    width: 300px;
+    height: 500px;
+margin-top: -505px;
+border: 3px greenyellow solid;
+font-size:20px ;
+float: left;
+margin-left: 1020px;
+}
+.img7{
+
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.div11{
+margin-top: 2400px;
+
+width: 400px;
+height:200px;
+background-color:rgb(8, 8, 8);
+/* margin: auto; */
+margin-left: 680px;
+top: 0;
+
+}
+.i1{
+    /* width: 300px; */
+/* height: 100px; */
+    color:rgb(241, 177, 16);
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 10px;
+    /* float: left; */
+}
+.i2{
+    padding-top: 30;
+    color:rgb(38, 130, 228);
+    font-size: 30px;
+   padding-left: 10px;
+}
+.i3{
+padding-top: 30px;
+    color:rgb(20, 238, 89);
+    font-size: 30px;
+    padding-left: 10px;
+}
+/* h2{
+float: left;
+padding-left: 20px;
+} */
+
+
+
+
